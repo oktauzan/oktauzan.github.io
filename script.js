@@ -2,7 +2,7 @@ var background = "Backround.jpeg";
 var foto = "photo.jpg";
 var musik = "https://oktauzan.github.io/backsound.mp3";
 var panggilan = "TENY OKTAVIANI";
-var ucapan = "Selamat ulang tahun sayangku, semoga panjang umur, sehat selalu dan bahagia selalu. dan aku berharap Semoga kita selalu bersama. Sekali lagi, Happy Birthday Cintaku";
+var ucapan = "Selamat ulang tahun sayangku, Hari ini adalah lembaran baru dalam buku kehidupanmu. isi setiap halaman dengan dengan warna-warna kebahagiaan, semoga panjang umur, sehat selalu dan bahagia selalu. dan aku berharap Semoga kita selalu bersama. Sekali lagi, Happy Birthday Cintaku";
 
 var hadiah1 = "HADIAH SATU";
 var hadiah2 = "HADIAH DUA";
